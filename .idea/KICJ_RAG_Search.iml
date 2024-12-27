@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/BM25_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Embedding_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Faiss_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/PDF" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_10-38-39" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_10-38-57" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_11-20-59" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_11-21-34" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_11-21-54" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_11-22-20" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_11-22-35" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_11-23-13" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-06-51" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-07-16" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-09-18" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-09-50" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-10-12" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-10-47" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-11-50" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-12-30" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-12-54" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-13-26" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-14-21" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-14-51" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-15-59" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-08-21_14-16-51" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-12-27_14-16-40" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-12-27_14-17-28" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-12-27_14-21-40" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation/2024-12-27_14-22-58" />
+      <excludeFolder url="file://$MODULE_DIR$/Conversation" />
+      <excludeFolder url="file://$MODULE_DIR$/Retrieved" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

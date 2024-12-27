@@ -1,0 +1,7 @@
+.env
+PDF/
+BM25_cache/
+Faiss_cache/
+Embedding_cache/
+Conversation/
+Retrieved/
